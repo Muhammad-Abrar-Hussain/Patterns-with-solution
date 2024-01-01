@@ -1,2 +1,2 @@
 # Patterns-with-solution
-In this repo pesent solutions of different pattern problems
+This repo present solutions to different pattern problems with code in python language.
