@@ -1,0 +1,5 @@
+def nForest(n: int) -> None:
+    for line in range(n):
+        for star in range(n):
+            print("*", end=' ')
+        print('')
